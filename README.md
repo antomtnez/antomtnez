@@ -9,12 +9,15 @@ const antomtnez = {
   passions: [videogame development, web programming],
   }
 ```
+[![Anto Martinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=antomtnez)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antomtnez&show_icons=true&theme=radical)
+
 You can find me 👀:
 - [Twitter](https://twitter.com/antomtnezdev)
 - [Instagram](https://www.instagram.com/antomtnez/)
 - [Linkedin](https://www.linkedin.com/in/antoniomartinezmirambell/)
 
-[![Anto Martinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=antomtnez)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **antomtnez/antomtnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
