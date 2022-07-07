@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm Antonio 👋💻🎮
 
+```js
+const antomtnez = {
+  pronouns: "he" | "him",
+  code: [C#, Java, HTML, CSS, Javascript, Typescript],
+  tech: 'Unity',
+  passions: [videogame development, web programming],
+  }
+```
 <!--
 **antomtnez/antomtnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
