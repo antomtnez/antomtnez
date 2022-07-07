@@ -3,7 +3,7 @@ Welcome to my page!
 ```js
 const antomtnez = {
   pronouns: "he" | "him",
-  works: [Junior Videogame Developer of Jellyworld, Cofounder of Bookledge]
+  works: [Junior Videogame Developer of Jellyworld, Cofounder of Bookledge],
   code: [C#, Java, HTML, CSS, Javascript, Typescript],
   tech: 'Unity',
   passions: [videogame development, web programming],
@@ -13,6 +13,9 @@ You can find me 👀:
 - [Twitter](https://twitter.com/antomtnezdev)
 - [Instagram](https://www.instagram.com/antomtnez/)
 - [Linkedin](https://www.linkedin.com/in/antoniomartinezmirambell/)
+
+[![Anto Martinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=antomtnez)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **antomtnez/antomtnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
