@@ -1,4 +1,4 @@
-### Hi, I'm Antonio 👋💻🎮
+### Hi, I'm Antonio 👋💻🎮👾
 
 ```js
 const antomtnez = {
@@ -8,6 +8,10 @@ const antomtnez = {
   passions: [videogame development, web programming],
   }
 ```
+You can find me 👀:
+- [Twitter](https://twitter.com/antomtnezdev)
+- [Instagram](https://www.instagram.com/antomtnez/)
+- [Linkedin](https://www.linkedin.com/in/antoniomartinezmirambell/)
 <!--
 **antomtnez/antomtnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
