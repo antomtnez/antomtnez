@@ -3,7 +3,7 @@ Welcome to my page!
 ```js
 const antomtnez = {
   pronouns: "he" | "him",
-  works: [Junior Videogame Developer of [Jellyworld](https://www.jellyworld.games/), Cofounder of [Bookledge](http://www.bookledge.es/)]
+  works: [Junior Videogame Developer of Jellyworld, Cofounder of Bookledge]
   code: [C#, Java, HTML, CSS, Javascript, Typescript],
   tech: 'Unity',
   passions: [videogame development, web programming],
