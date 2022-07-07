@@ -8,7 +8,7 @@ const antomtnez = {
   works: [Junior Videogame Developer of Jellyworld, Cofounder of Bookledge],
   code: [C#, Java, HTML, CSS, Javascript, Typescript],
   tech: 'Unity',
-  passions: [videogame development, web programming],
+  passions: [Videogame Development, Web Programming],
   }
 ```
 ## My GitHub stats 🚀
