@@ -1,5 +1,5 @@
-### Hi! I'm Anto Martinez 👋💻🎮👾
-## Welcome to my page!
+## Hi! I'm Anto Martinez 👋💻🎮👾
+### Welcome to my page!
 
 ## About me in code
 ```js
