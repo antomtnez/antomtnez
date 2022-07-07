@@ -11,7 +11,8 @@ const antomtnez = {
   passions: [videogame development, web programming],
   }
 ```
-[![Anto Martinez's GitHub stats 🚀](https://github-readme-stats.vercel.app/api?username=antomtnez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub stats 🚀
+[![](https://github-readme-stats.vercel.app/api?username=antomtnez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can find me 👀:
 - [Twitter](https://twitter.com/antomtnezdev)
