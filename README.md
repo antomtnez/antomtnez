@@ -1,7 +1,7 @@
-# Hi! I'm Anto Martinez 👋💻🎮👾
+# Hi!👋 I'm Anto Martinez 💻🎮👾
 ### Welcome to my page!
 
-## About me in code
+## About me in code 👨‍💻
 ```js
 const antomtnez = {
   pronouns: "he" | "him",
@@ -11,7 +11,7 @@ const antomtnez = {
   passions: [videogame development, web programming],
   }
 ```
-[![Anto Martinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=antomtnez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anto Martinez's GitHub stats 🚀](https://github-readme-stats.vercel.app/api?username=antomtnez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can find me 👀:
 - [Twitter](https://twitter.com/antomtnezdev)
