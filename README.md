@@ -5,10 +5,10 @@
 ```js
 const antomtnez = {
   pronouns: "he" | "him",
-  works: [Junior Videogame Developer of Jellyworld, Cofounder of Bookledge],
+  works: [Junior Videogame Developer of Jellyworld],
   code: [C#, Java, HTML, CSS, Javascript, Typescript],
   tech: 'Unity',
-  passions: [Videogame Development, Web Programming],
+  passions: [Videogame Development, Graphic design and art, Basketball],
   }
 ```
 ## My GitHub stats 🚀
