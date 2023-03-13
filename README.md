@@ -5,8 +5,8 @@
 ```js
 const antomtnez = {
   pronouns: "he" | "him",
-  works: [Junior Videogame Developer of Jellyworld],
-  code: [C#, Java, HTML, CSS, Javascript, Typescript],
+  works: [Junior Videogame Developer],
+  code: [C#, Java, HTML, CSS, Javascript],
   tech: 'Unity',
   passions: [Videogame Development, Graphic design and art, Basketball],
   }
