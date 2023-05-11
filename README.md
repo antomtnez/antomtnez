@@ -6,8 +6,8 @@
 const antomtnez = {
   pronouns: "he" | "him",
   works: [Videogame Developer],
-  code: [C#, Java, HTML, CSS, Javascript],
-  tech: 'Unity',
+  code: [C#, C++, HTML, CSS, Javascript],
+  tech: ['Unity', 'Unreal Engine'],
   passions: [Videogame Development, Graphic design and art, Basketball],
   }
 ```
