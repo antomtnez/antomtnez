@@ -5,7 +5,7 @@
 ```js
 const antomtnez = {
   pronouns: "he" | "him",
-  works: [Videogame Developer],
+  works: [Videogame Developer, AR App Developer],
   code: [C#, C++, HTML, CSS, Javascript],
   tech: ['Unity', 'Unreal Engine'],
   passions: [Videogame Development, Graphic design and art, Basketball],
