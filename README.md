@@ -1,8 +1,7 @@
 # Hi!👋 I'm Anto Martinez 💻🎮👾
 ### Welcome to my page!
 
-## About me in code 👨‍💻
-```js
+## About me 👨‍💻
 const antomtnez = {
   pronouns: "he" | "him",
   works: [Videogame Developer, AR App Developer],
@@ -10,7 +9,31 @@ const antomtnez = {
   tech: ['Unity', 'Unreal Engine'],
   passions: [Videogame Development, Graphic design and art, Basketball],
   }
-```
+
+import SoftwareDeveloper from 'antoMtnez';
+
+class Bio extends SoftwareDeveloper {
+  name = 'Antonio Martinez';
+  pronouns: "he" | "him":
+  passions: 'Game Creation', 'Unity XR', 'adapting IA in our lifes';
+  title    = 'Unity Developer';
+  location = 'Spain';
+}
+
+class Skills extends SoftwareDeveloper {
+  gameEngines = ['Unity', 'Unreal Engine'];
+  languages  = [C#, C++, Python, HTML, CSS, Java];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer'];
+}
+
+Skill
+🎮 Game Engines:
+Unity Unreal5
+🛠️ Programming Languages :
+C#  C++  Python  Java  JavaScript
+⏫ Other :
+git vscode 
+
 ## My GitHub stats 🚀
 [![My GitHub stats 🚀](https://github-readme-stats.vercel.app/api?username=antomtnez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
