@@ -1,8 +1,6 @@
 # Hi!👋 I'm Anto Martinez 💻🎮👾
 ### Welcome to my page!
 
----
-
 ## About me 👨‍💻
 ```js
 import SoftwareDeveloper from 'antoMtnez';
@@ -22,9 +20,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
----
-
-## Skill 🔥
+## Skills 🔥
 ### 🎮 Game Engines:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
@@ -55,7 +51,6 @@ class Skills extends SoftwareDeveloper {
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ## My GitHub stats 🚀
 
@@ -66,7 +61,9 @@ class Skills extends SoftwareDeveloper {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antomtnez&layout=compact&theme=vision-friendly-dark" width="600"/>
 </div>
 
+
 ---
+
 
 ## You can find me 👀:
 - [Twitter](https://twitter.com/antomtnezdev)
