@@ -8,15 +8,9 @@ import SoftwareDeveloper from 'antoMtnez';
 class Bio extends SoftwareDeveloper {
   name = 'Antonio Martinez';
   pronouns: "he" | "him":
-  passions: 'Game Creation', 'Unity XR', 'adapting IA in our lifes';
-  title    = 'Unity Developer';
+  passions: 'Software Development', 'Game Creation', 'adapting IA in our lifes';
+  title    = 'Unity Developer | Big Data & AI Specialist';
   location = 'Spain';
-}
-
-class Skills extends SoftwareDeveloper {
-  gameEngines = ['Unity', 'Unreal Engine'];
-  languages  = [C#, C++, Python, HTML, CSS, Java];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer'];
 }
 ```
 
@@ -34,6 +28,19 @@ class Skills extends SoftwareDeveloper {
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+</div>
+
+### 🛠️ Big Data & AI Skills :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftazure/microsoftazure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🖥️ Frontend Development :
